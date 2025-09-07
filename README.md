@@ -27,4 +27,4 @@ my image.png: The profile picture.
 About Me
 I am a Computer Science and Engineering student with a specialisation in Artificial Intelligence. I am passionate about building intelligent and scalable solutions that create value.
 
-© 2025 Rakhi. All Rights Reserved.
+© 2025 Rakhi.Built with ❤ .
