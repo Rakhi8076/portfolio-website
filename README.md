@@ -2,7 +2,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 🚀 Live Demo
 You can view the live version of this portfolio here:
-https://rakhi8076.github.io/portfolio-website/
+https://my-portfolio-a8uu.onrender.com/
 
 🛠️ Technologies Used
 This portfolio was built using a clean and modern technology stack:
