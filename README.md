@@ -1,4 +1,3 @@
-Rakhi's Professional Portfolio
 Welcome to my personal portfolio! This website showcases my skills, projects, and professional background as a software engineer.
 
 🚀 Live Demo
