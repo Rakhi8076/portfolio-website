@@ -31,3 +31,5 @@
 // sections.forEach(section => {
 //     observer.observe(section);
 // });
+
+// Register ScrollTrigger plugin
